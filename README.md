@@ -56,13 +56,5 @@ A comprehensive web-based platform for managing shared community sports faciliti
 
 ## 📫 Let's Connect
 
-- 📧 Email: thembelanitngcobo@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/thembelani-ngcobo-729a21231/)
-- 📱 Phone: 067 174 9797
-
-## 🌟 Other Interests
-
-- 📚 Tutoring and mentoring students in Mathematics and Computer Science
-- 🤝 Community outreach - I've tutored Mathematics and Physics to Grade 10-12 students at underprivileged schools
-- 🧮 Problem-solving with algorithms and mathematical modeling
 
